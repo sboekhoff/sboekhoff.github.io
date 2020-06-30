@@ -11,3 +11,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * trait 5
 
 
+My favorite quote:
+
+> Something character has said.
+> Quote has 2 sentences.
+
+
